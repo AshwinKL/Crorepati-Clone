@@ -14,4 +14,4 @@ Crorepati app was created using React Js.
 - Timer Option ⏲️
 - Do or Die mode 🎲
 
-## Preview the Live website [here]()
+## Preview the Live website [here](https://crorepati-clone.netlify.app/)
